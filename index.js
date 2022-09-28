@@ -70,6 +70,7 @@ function displayProduct() {
 function deleteProduct(deleteIndex) {
   productsContainer.splice(deleteIndex, 1);
   localStorage.setItem("product", JSON.stringify(productsContainer));
+    alert("Are You Want To Delete This Item")
   displayProduct();
 }
 
