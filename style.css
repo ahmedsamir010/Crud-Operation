@@ -9,7 +9,9 @@ body {
   background-position: center center;
   height: 100vh;
 }
-
+.table thead th{
+  color: rgb(185, 175, 161);
+}
 .searchInput {
   border-radius: 20px;
 }
