@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: url(../notebook-natural-laptop-macbook.jpg);
+  background-image: url(/notebook-natural-laptop-macbook.jpg);
   background-size: cover;
   background-position: center center;
   height: 100vh;
